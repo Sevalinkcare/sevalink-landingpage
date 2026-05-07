@@ -1,4 +1,4 @@
-import { Header } from "@/components/layout/header";
+﻿import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
 import ScrollToTop from "@/components/ui/scroll-to-top";
 
@@ -55,7 +55,7 @@ export default function RefundPolicyPage() {
                 Customer Cancellation &amp; Refund Policy
               </p>
               <p>
-                This policy establishes the terms and conditions governing cancellations, refund eligibility, applicable service charges, and limitations of liability in connection with ambulance bookings facilitated through Sevalink. By accessing, booking, or utilizing any services via the platform, you expressly acknowledge, understand, and agree to be legally bound by these terms. All services are provided on a best-effort basis, and Sevalink shall not be held liable for any delays, unavailability, service interruptions, or any direct, indirect, incidental, or consequential damages arising from the use of the platform. Users avail services at their own risk and discretion.
+                This policy establishes the terms and conditions governing cancellations, refund eligibility, applicable service charges, and limitations of liability in connection with ambulance bookings facilitated through SevaLink. By accessing, booking, or utilizing any services via the platform, you expressly acknowledge, understand, and agree to be legally bound by these terms. All services are provided on a best-effort basis, and SevaLink shall not be held liable for any delays, unavailability, service interruptions, or any direct, indirect, incidental, or consequential damages arising from the use of the platform. Users avail services at their own risk and discretion.
               </p>
             </div>
           </section>
@@ -63,7 +63,7 @@ export default function RefundPolicyPage() {
           <section id="scope-of-services" className="py-8 border-b border-black/10 scroll-mt-28">
             <h2 className="text-2xl font-semibold text-gray-900">1. Scope of Services</h2>
             <p className="mt-4 text-gray-700 leading-8 text-[15px] sm:text-base">
-              "Sevalink is a technology platform that facilitates connections between users and independent ambulance drivers, medical transport providers, and healthcare service partners. Sevalink does not own, operate, or control any ambulance services or medical personnel and is not a healthcare or emergency medical service provider. Any medical assistance, treatment, or procedures carried out during transport are the sole responsibility of the respective service provider. Sevalink shall not be liable for the quality, outcome, or execution of any medical or transport services provided."
+              &quot;SevaLink Technology Pvt Ltd (&quot;SevaLink&quot;) is a technology platform that facilitates connections between users and independent ambulance drivers, medical transport providers, and healthcare service partners. SevaLink does not own, operate, or control any ambulance services or medical personnel and is not a healthcare or emergency medical service provider. Any medical assistance, treatment, or procedures carried out during transport are the sole responsibility of the respective service provider. SevaLink shall not be liable for the quality, outcome, or execution of any medical or transport services provided.&quot;
             </p>
           </section>
 
@@ -80,7 +80,7 @@ export default function RefundPolicyPage() {
               Once an ambulance driver has been assigned to the booking, the advance amount and/or booking amount shall become strictly non-refundable.
             </p>
             <p className="mt-3 text-gray-700 leading-8 text-[15px] sm:text-base">
-              This non-refundability applies in all cases where cancellation is initiated by the user for reasons including, but not limited to, change of plans, alternative arrangements, delay or unavailability of the patient, or any other reasons not attributable to Sevalink or the service provider.
+              This non-refundability applies in all cases where cancellation is initiated by the user for reasons including, but not limited to, change of plans, alternative arrangements, delay or unavailability of the patient, or any other reasons not attributable to SevaLink or the service provider.
             </p>
           </section>
 
@@ -89,7 +89,7 @@ export default function RefundPolicyPage() {
 
             <h3 className="mt-6 text-xl font-semibold text-gray-900">3.1 Platform Commission</h3>
             <p className="mt-3 text-gray-700 leading-8 text-[15px] sm:text-base">
-              Sevalink charges a platform service commission ranging between 10% to 15% of the total booking value for facilitating ambulance and medical transport services.
+              SevaLink charges a platform service commission ranging between 10% to 15% of the total booking value for facilitating ambulance and medical transport services.
             </p>
 
             <h3 className="mt-6 text-xl font-semibold text-gray-900">3.2 Fee Applicability</h3>
@@ -103,7 +103,7 @@ export default function RefundPolicyPage() {
 
             <h3 className="mt-6 text-xl font-semibold text-gray-900">4.1 Refund Calculation</h3>
             <p className="mt-3 text-gray-700 leading-8 text-[15px] sm:text-base">
-              In cases where the total amount paid by the user exceeds Sevalink's applicable service fee, a partial refund may be processed in accordance with the following formula:
+              In cases where the total amount paid by the user exceeds SevaLink's applicable service fee, a partial refund may be processed in accordance with the following formula:
             </p>
             <p className="mt-3 text-gray-700 leading-8 text-[15px] sm:text-base font-medium">
               Refundable Amount = Total Amount Paid - (Service Fee + Driver Charges + Transaction Charges + Third-Party Fees)
@@ -161,7 +161,7 @@ export default function RefundPolicyPage() {
 
             <h3 className="mt-6 text-xl font-semibold text-gray-900">7.1 Limitation of Liability</h3>
             <p className="mt-3 text-gray-700 leading-8 text-[15px] sm:text-base">
-              Sevalink shall not be held liable for any delays, service interruptions, cancellations, or failure to perform its obligations arising from events beyond its reasonable control.
+              SevaLink shall not be held liable for any delays, service interruptions, cancellations, or failure to perform its obligations arising from events beyond its reasonable control.
             </p>
 
             <h3 className="mt-6 text-xl font-semibold text-gray-900">7.2 Covered Events</h3>
@@ -175,22 +175,22 @@ export default function RefundPolicyPage() {
 
             <h3 className="mt-6 text-xl font-semibold text-gray-900">8.1 Liability Cap</h3>
             <p className="mt-3 text-gray-700 leading-8 text-[15px] sm:text-base">
-              To the maximum extent permitted under applicable law, Sevalink's total and aggregate liability arising out of or in connection with any booking or use of the platform shall be strictly limited to the service fee actually received by Sevalink for the respective booking.
+              To the maximum extent permitted under applicable law, SevaLink's total and aggregate liability arising out of or in connection with any booking or use of the platform shall be strictly limited to the service fee actually received by SevaLink for the respective booking.
             </p>
 
             <h3 className="mt-6 text-xl font-semibold text-gray-900">8.2 Exclusion of Damages</h3>
             <p className="mt-3 text-gray-700 leading-8 text-[15px] sm:text-base">
-              Sevalink shall not be liable for any direct, indirect, incidental, consequential, special, or punitive damages, including but not limited to loss of life, personal injury, delay, loss of opportunity, loss of data, or financial loss arising from the use of the platform or services.
+              SevaLink shall not be liable for any direct, indirect, incidental, consequential, special, or punitive damages, including but not limited to loss of life, personal injury, delay, loss of opportunity, loss of data, or financial loss arising from the use of the platform or services.
             </p>
 
             <h3 className="mt-6 text-xl font-semibold text-gray-900">8.3 Third-Party Services Disclaimer</h3>
             <p className="mt-3 text-gray-700 leading-8 text-[15px] sm:text-base">
-              All ambulance and medical transport services are provided by independent third-party service providers. Sevalink does not control, supervise, or guarantee the quality, safety, timeliness, legality, or suitability of such services and shall not be held liable for any acts, omissions, negligence, or misconduct of such providers.
+              All ambulance and medical transport services are provided by independent third-party service providers. SevaLink does not control, supervise, or guarantee the quality, safety, timeliness, legality, or suitability of such services and shall not be held liable for any acts, omissions, negligence, or misconduct of such providers.
             </p>
 
             <h3 className="mt-6 text-xl font-semibold text-gray-900">8.4 User Responsibility</h3>
             <p className="mt-3 text-gray-700 leading-8 text-[15px] sm:text-base">
-              Users acknowledge that they are availing services at their own risk and discretion. Sevalink shall not be responsible for any decisions made by users before, during, or after the use of the platform.
+              Users acknowledge that they are availing services at their own risk and discretion. SevaLink shall not be responsible for any decisions made by users before, during, or after the use of the platform.
             </p>
           </section>
 
@@ -199,7 +199,7 @@ export default function RefundPolicyPage() {
 
             <h3 className="mt-6 text-xl font-semibold text-gray-900">9.1 User Indemnity Obligation</h3>
             <p className="mt-3 text-gray-700 leading-8 text-[15px] sm:text-base">
-              Users agree to indemnify, defend, and hold harmless Sevalink, its founders, directors, employees, affiliates, and partners from and against any and all claims, demands, liabilities, damages, losses, costs, or expenses (including legal fees) arising out of or in connection with their use or misuse of the platform.
+              Users agree to indemnify, defend, and hold harmless SevaLink, its founders, directors, employees, affiliates, and partners from and against any and all claims, demands, liabilities, damages, losses, costs, or expenses (including legal fees) arising out of or in connection with their use or misuse of the platform.
             </p>
 
             <h3 className="mt-6 text-xl font-semibold text-gray-900">9.2 Scope of Indemnity</h3>
@@ -218,12 +218,12 @@ export default function RefundPolicyPage() {
 
             <h3 className="mt-6 text-xl font-semibold text-gray-900">10.1 Governing Law</h3>
             <p className="mt-3 text-gray-700 leading-8 text-[15px] sm:text-base">
-              These terms and any disputes arising out of or in connection with the use of Sevalink's platform shall be governed by and construed in accordance with the laws of India.
+              These terms and any disputes arising out of or in connection with the use of SevaLink's platform shall be governed by and construed in accordance with the laws of India.
             </p>
 
             <h3 className="mt-6 text-xl font-semibold text-gray-900">10.2 Jurisdiction</h3>
             <p className="mt-3 text-gray-700 leading-8 text-[15px] sm:text-base">
-              All disputes shall be subject to the exclusive jurisdiction of the competent courts located in the city where Sevalink is registered.
+              All disputes shall be subject to the exclusive jurisdiction of the competent courts located in the city where SevaLink is registered.
             </p>
           </section>
 
@@ -232,12 +232,12 @@ export default function RefundPolicyPage() {
 
             <h3 className="mt-6 text-xl font-semibold text-gray-900">11.1 Support Requests</h3>
             <p className="mt-3 text-gray-700 leading-8 text-[15px] sm:text-base">
-              For any refund-related queries, concerns, or review requests, users must contact Sevalink support through the in-app Help section or other officially designated support channels.
+              For any refund-related queries, concerns, or review requests, users must contact SevaLink support through the in-app Help section or other officially designated support channels.
             </p>
 
             <h3 className="mt-6 text-xl font-semibold text-gray-900">11.2 Case Evaluation</h3>
             <p className="mt-3 text-gray-700 leading-8 text-[15px] sm:text-base">
-              All requests shall be assessed on a case-by-case basis at the sole discretion of Sevalink. The decision made by Sevalink in such matters shall be final, binding, and not subject to further dispute.
+              All requests shall be assessed on a case-by-case basis at the sole discretion of SevaLink. The decision made by SevaLink in such matters shall be final, binding, and not subject to further dispute.
             </p>
           </section>
 
@@ -246,34 +246,34 @@ export default function RefundPolicyPage() {
 
             <h3 className="mt-6 text-xl font-semibold text-gray-900">12.1 No Warranty</h3>
             <p className="mt-3 text-gray-700 leading-8 text-[15px] sm:text-base">
-              Sevalink provides its platform and services on an "as is" and "as available" basis without any warranties of any kind, whether express or implied, including but not limited to availability, accuracy, reliability, or fitness for a particular purpose.
+              SevaLink provides its platform and services on an "as is" and "as available" basis without any warranties of any kind, whether express or implied, including but not limited to availability, accuracy, reliability, or fitness for a particular purpose.
             </p>
 
             <h3 className="mt-6 text-xl font-semibold text-gray-900">12.2 Service Availability</h3>
             <p className="mt-3 text-gray-700 leading-8 text-[15px] sm:text-base">
-              Sevalink does not guarantee uninterrupted or error-free operation of the platform and may suspend, modify, or discontinue services at any time without prior notice.
+              SevaLink does not guarantee uninterrupted or error-free operation of the platform and may suspend, modify, or discontinue services at any time without prior notice.
             </p>
 
             <h3 className="mt-6 text-xl font-semibold text-gray-900">12.3 User Responsibility &amp; Risk Acknowledgment</h3>
             <p className="mt-3 text-gray-700 leading-8 text-[15px] sm:text-base">
-              Users acknowledge and agree that they are availing services at their own risk and discretion. Sevalink shall not be responsible for any consequences arising from user decisions before, during, or after the use of the platform.
+              Users acknowledge and agree that they are availing services at their own risk and discretion. SevaLink shall not be responsible for any consequences arising from user decisions before, during, or after the use of the platform.
             </p>
 
             <h3 className="mt-6 text-xl font-semibold text-gray-900">12.4 Account Suspension or Termination</h3>
             <p className="mt-3 text-gray-700 leading-8 text-[15px] sm:text-base">
-              Sevalink reserves the right to suspend or terminate user access to the platform at its sole discretion in cases of misuse, fraudulent activity, or violation of these terms, without prior notice or liability.
+              SevaLink reserves the right to suspend or terminate user access to the platform at its sole discretion in cases of misuse, fraudulent activity, or violation of these terms, without prior notice or liability.
             </p>
 
             <h3 className="mt-6 text-xl font-semibold text-gray-900">12.5 Modification of Policy</h3>
             <p className="mt-3 text-gray-700 leading-8 text-[15px] sm:text-base">
-              Sevalink reserves the right to update, modify, or revise this policy at any time. Continued use of the platform after such changes constitutes acceptance of the revised terms.
+              SevaLink reserves the right to update, modify, or revise this policy at any time. Continued use of the platform after such changes constitutes acceptance of the revised terms.
             </p>
           </section>
 
           <section id="acknowledgment" className="pt-8 scroll-mt-28">
             <h2 className="text-2xl font-semibold text-gray-900">Acknowledgment</h2>
             <p className="mt-4 text-gray-700 leading-8 text-[15px] sm:text-base">
-              "By accessing or using Sevalink's services, you acknowledge that you have read, understood, and expressly agree to be bound by this policy and its terms."
+              "By accessing or using SevaLink's services, you acknowledge that you have read, understood, and expressly agree to be bound by this policy and its terms."
             </p>
           </section>
         </article>

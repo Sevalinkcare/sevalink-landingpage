@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { motion } from 'framer-motion';
 import { MapPin, ArrowUp } from 'lucide-react';
 import { FloatingMedicalIcons } from '../ui/medical-background';
+import { COMPANY_LEGAL_NAME } from '@/lib/brand';
 
 const footerLinks = {
   "Services": [
@@ -98,7 +99,7 @@ export const Footer = () => {
             <div className="flex flex-col md:flex-row justify-between items-center gap-6 md:gap-8">
               <motion.div className="text-center md:text-left" initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} transition={{ duration: 0.6 }}>
                 <p className="text-xs text-black font-medium hover:text-red-600 transition-colors">
-                  {`© ${new Date().getFullYear()} SevaLink. All rights reserved.`}
+                  {`© ${new Date().getFullYear()} ${COMPANY_LEGAL_NAME}. All rights reserved.`}
                 </p>
                 <p className="text-xs text-black/80 mt-1 hover:text-red-600 transition-colors">
                   Made for faster emergency response in India

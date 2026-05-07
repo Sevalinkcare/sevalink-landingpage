@@ -204,7 +204,7 @@ export const metadata: Metadata = {
     "medical emergency app India",
   ],
 
-  authors: [{ name: "SevaLink" }],
+  authors: [{ name: "SevaLink Technology Pvt Ltd" }],
 
   robots: {
     index: true,
@@ -266,7 +266,7 @@ export default function RootLayout({
       {
         "@type": "MedicalBusiness",
         "@id": `${siteUrl}/#organization`,
-        name: "SevaLink",
+        name: "SevaLink Technology Pvt Ltd",
         url: siteUrl,
         logo: `${siteUrl}/assets/brand/SevaLink-logo-r.png`,
         description:

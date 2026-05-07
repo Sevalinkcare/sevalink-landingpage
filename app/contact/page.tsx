@@ -54,6 +54,7 @@ export default function ContactPage() {
               )}
               <p><span className="font-semibold text-gray-900">Hours:</span> 24/7 Emergency Support</p>
               <p><span className="font-semibold text-gray-900">Location:</span> Rajkot, Gujarat, India</p>
+              <p><span className="font-semibold text-gray-900">Legal Entity:</span> SevaLink Technology Pvt Ltd</p>
               <p>
                 <span className="font-semibold text-gray-900">Partner Enquiries:</span>{" "}
                 <a href="/provider" className="text-red-600 hover:text-red-700 transition-colors underline-offset-2 hover:underline">

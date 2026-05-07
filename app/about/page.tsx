@@ -23,6 +23,9 @@ export default function AboutPage() {
             Our mission is simple: reduce emergency response delays and make medical coordination seamless
             for families across India.
           </p>
+          <p className="mt-6 text-sm text-gray-500">
+            A product of <strong className="text-gray-700">SevaLink Technology Pvt Ltd</strong> — Rajkot, Gujarat, India.
+          </p>
         </section>
       </main>
       <Footer />
